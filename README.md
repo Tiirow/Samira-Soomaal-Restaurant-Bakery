@@ -142,6 +142,17 @@ The project uses CDN resources for libraries such as React, ReactDOM, Babel, and
 
 The project is kept simple and easy to understand.
 
+## 🔗 Project Links
+
+🌐 **Live Website:**  
+https://tiirow.github.io/Samira-Soomaal-Restaurant-Bakery/
+
+🐙 **GitHub Repository:**  
+https://github.com/Tiirow/Samira-Soomaal-Restaurant-Bakery
+
+💻 **Source Code:**  
+https://github.com/Tiirow/Samira-Soomaal-Restaurant-Bakery
+
 
 ## 👨‍💻 Author
 
