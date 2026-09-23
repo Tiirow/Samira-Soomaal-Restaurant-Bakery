@@ -142,3 +142,48 @@ The project uses CDN resources for libraries such as React, ReactDOM, Babel, and
 
 The project is kept simple and easy to understand.
 
+
+## 👨‍💻 Author
+
+### Mohamed Adan Mohamed
+
+**Computer Application Graduate | Full-Stack Developer**
+
+Passionate about building modern, responsive, and practical software solutions with a focus on clean design, usability, and professional development.
+
+### 💻 Technical Skills
+
+- 🐍 Python
+- 🌐 Django
+- ⚛️ React
+- 📱 Flutter
+- 💻 JavaScript
+- 🎨 HTML & CSS
+- 🗄️ SQL
+- 🍃 MongoDB
+- 🔧 Git & GitHub
+
+### 🚀 Developer Focus
+
+- 🌐 Web Application Development
+- 📱 Mobile Application Development
+- 🗄️ Database Management
+- 🔐 Authentication & Authorization
+- 🎨 Responsive UI/UX
+- ⚙️ Full-Stack Development
+
+### 🔗 GitHub
+
+**GitHub:** [Tiirow](https://github.com/Tiirow)
+
+
+
+### ❤️ Developed By
+
+**Mohamed Adan Mohamed**
+
+*Computer Application Graduate & Full-Stack Developer*
+
+🇸🇴 **Made with passion and dedication in Somalia**
+
+
